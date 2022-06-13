@@ -54,5 +54,5 @@ The blueprint of possible user interface is shown in the next picture:
   
   
   
-##References
+## References
 * Software Requirement Specification for "Fancy Calculator" - [https://github.com/ildun/Fancy-Calculator/blob/main/Software%20Requirements%20Specification.md](https://github.com/ildun/Fancy-Calculator/blob/main/Software%20Requirements%20Specification.md)
